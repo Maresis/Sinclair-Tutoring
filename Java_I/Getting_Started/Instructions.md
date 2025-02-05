@@ -22,6 +22,7 @@
  |  | `Python` CIS 2266 [^6] |  |
  | Maddison Raides | `C++` CIS 1111 [^1] | maddison.raines@sinclair.edu |
  |  | `Java` CIS 2212 [^4] |  |
+ 
  *An appointment cannot be schedule for this class with this tutor
 
 [^1]: Introduction to Problem Solving & Computer Programming
