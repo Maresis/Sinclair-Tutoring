@@ -5,7 +5,7 @@ package Java_I.Getting_Started; //visual studio HATES custom packages lol, but t
  * This is used to test your ability to run and debug a program in Java.
  *
  */
-public class testHelloWorld
+public class TestHelloWorld
 {
     public static void main(String[] args) {
         System.out.println("Hello World");
