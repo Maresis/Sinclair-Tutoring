@@ -15,13 +15,9 @@
 
  | Tutor | Subject(s)/Class(es) | Email |
  | --- | --- | ---|
- | Morgan Hunt | `C++` CIS 1111[^1], *CIS 1202[^2], *CIS 2207[^3] | morgan.hunt@sinclair.edu |
- |             | `Java` CIS 2212 [^4], CIS 2217 [^5]              |                          |
- | Crile Staudt | `C++` CIS 1111[^1], CIS 1202[^2], *CIS 2207[^3] | crile.staudt!sinclair.edu |
- |  | `Java` CIS 2212 [^4], CIS 2217 [^5] |    |
- |  | `Python` CIS 2266 [^6] |  |
- | Maddison Raides | `C++` CIS 1111 [^1] | maddison.raines@sinclair.edu |
- |  | `Java` CIS 2212 [^4] |  |
+ | Morgan Hunt | `C++` CIS 1111[^1], < br / > *CIS 1202[^2],  *CIS 2207[^3] < br / > `Java` CIS 2212 [^4], CIS 2217 [^5] | morgan.hunt@sinclair.edu 
+ | Crile Staudt | `C++` CIS 1111[^1], CIS 1202[^2], *CIS 2207[^3] < br / > `Java` CIS 2212 [^4], CIS 2217 [^5] | < br / > `Python` CIS 2266 [^6] | crile.staudt!sinclair.edu |
+ | Maddison Raides | `C++` CIS 1111 [^1] < br / > `Java` CIS 2212 [^4] | maddison.raines@sinclair.edu |
  *An appointment cannot be schedule for this class with this tutor
 
 [^1]: Introduction to Problem Solving & Computer Programming
